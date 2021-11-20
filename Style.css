@@ -131,7 +131,7 @@ section .title {
 /* The dropdown container */
 .dropdown {
     
-    overflow: hidden;
+    
     display: inline-block;
     
 }
